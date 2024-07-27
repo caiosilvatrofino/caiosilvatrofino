@@ -18,11 +18,6 @@ Sou um desenvolvedor com experiência em Python, Java e banco de dados, atualmen
 - **Frameworks e Bibliotecas**: Angular, TypeScript (estudando e aprimorando).
 - **Design UI/UX**: Princípios de design, prototipagem e ferramentas como Figma e Adobe XD.
 
-## Projetos Recentes
-
-- **[Nome do Projeto 1]**: Breve descrição do projeto. Utilize Python/Java/SQL e também elementos de Front-End/UI/UX se aplicável.
-- **[Nome do Projeto 2]**: Breve descrição do projeto. Destaque suas contribuições e como aplicou conceitos de design para melhorar a experiência do usuário.
-
 ## O que Estou Estudando
 
 Atualmente, estou me aprofundando em:
