@@ -1,6 +1,6 @@
 # Olá, eu sou Caio Henrique 👋
 
-Sou um desenvolvedor iniciante focado em crescer na área de **Full Stack** com ênfase em **JS**. Estou especialmente interessado em **Front-End** e atualmente estou trabalhando para dominar essa parte da stack.
+Sou um desenvolvedor iniciante focado em crescer na área como **Full Stack** com ênfase em **JS**. Estou especialmente interessado em **Front-End** e atualmente estou trabalhando para dominar essa parte da stack.
 
 Além do meu foco em JavaScript, também tenho conhecimento em:
 
