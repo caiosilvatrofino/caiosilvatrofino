@@ -9,7 +9,7 @@ Além do meu foco em JavaScript, também tenho conhecimento em:
 - **Angular**
 - **TypeScript**
 
-Estou sempre buscando aprender e melhorar minhas habilidades. Sinta-se à vontade para explorar meus projetos e entrar em contato se quiser trocar ideias ou colaborar!
+Estou sempre buscando aprender e melhorar minhas habilidades. Sinta-se à vontade para entrar em contato se quiser trocar ideias ou colaborar de alguma forma!
 
 
 ## Conecte-se Comigo
