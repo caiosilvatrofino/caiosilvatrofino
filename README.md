@@ -8,6 +8,9 @@ Além do meu foco em JavaScript, também tenho conhecimento em:
 - **Java**
 - **Angular**
 - **TypeScript**
+- **Spring Boot**: Experiência em desenvolvimento de aplicações Java usando o Spring Boot, uma extensão do framework Spring que simplifica a configuração e o desenvolvimento de aplicações.
+- **Github & Gitlab**
+- **SQL Server**
 
 Estou sempre buscando aprender e melhorar minhas habilidades. Sinta-se à vontade para entrar em contato se quiser trocar ideias ou colaborar de alguma forma!
 
