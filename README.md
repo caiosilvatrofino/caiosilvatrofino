@@ -1,28 +1,14 @@
 # Olá, eu sou Caio Henrique 👋
 
-Sou um desenvolvedor com experiência em Python, Java e banco de dados, atualmente explorando o mundo do Front-End e design de UI/UX. Estou focado em aprimorar minhas habilidades na criação de interfaces de usuário intuitivas e atraentes.
+Sou um desenvolvedor iniciante focado em crescer na área de Full Stack com ênfase em JavaScript. Estou especialmente interessado em Front-End e atualmente estou trabalhando para dominar essa parte da stack.
 
-## Tecnologias e Ferramentas
+Além do meu foco em JavaScript, também tenho conhecimento em:
 
-### Linguagens de Programação
-- **Python**: Desenvolvimento de scripts, automação e aplicativos.
-- **Java**: Aplicações corporativas e desenvolvimento de sistemas recentemente implantadas na empresa.
-
-### Banco de Dados
-- **SQL**: Criação, manutenção e consulta de bancos de dados relacionais.
-- **NoSQL**: Conhecimento em bases de dados não relacionais.
-
-### Front-End e Design
-- **HTML/CSS**: Criação e estilização de páginas web.
-- **JavaScript**: Interatividade e dinâmica nas páginas web.
-- **Frameworks e Bibliotecas**: Angular, TypeScript (estudando e aprimorando).
-- **Design UI/UX**: Princípios de design, prototipagem e ferramentas como Figma e Adobe XD.
-
-## O que Estou Estudando
-
-Atualmente, estou me aprofundando em:
-- **Desenvolvimento Front-End**: Aprendendo sobre frameworks modernos como Angular e TypeScript.
-- **UI/UX Design**: Focando em princípios de design e experiência do usuário para criar interfaces mais eficazes e agradáveis.
+Python
+Java
+Angular
+TypeScript
+Estou sempre buscando aprender e melhorar minhas habilidades. Sinta-se à vontade para explorar meus projetos e entrar em contato se quiser trocar ideias ou colaborar!
 
 ## Conecte-se Comigo
 
