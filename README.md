@@ -1,8 +1,6 @@
 # Olá, eu sou Caio Henrique 👋
 
-Sou um desenvolvedor iniciante focado em crescer na área como **Full Stack**
-
-**Atualmente estudo** -
+Sou um desenvolvedor iniciante focado em crescer na área como **Full Stack** **Atualmente estudo**:
 - **Python**
 - **Java**
 - **Angular**
