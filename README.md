@@ -1,15 +1,24 @@
 # Olá, eu sou Caio Henrique 👋
 
-Sou um desenvolvedor iniciante focado em crescer na área como **Full Stack** **Atualmente estudo**:
-- **Python**
-- **Java**
-- **Angular**
-- **TypeScript**
-- **Spring Boot**: Experiência em desenvolvimento de aplicações Java usando o Spring Boot, uma extensão do framework Spring que simplifica a configuração e o desenvolvimento de aplicações.
-- **Github & Gitlab**
-- **SQL Server**
+Sou um desenvolvedor iniciante apaixonado por tecnologia e em constante aprendizado. Meu objetivo é me desenvolver na área de **Full Stack Development** e estou sempre em busca de novos desafios e oportunidades para crescer.
 
-Estou sempre buscando aprender e melhorar minhas habilidades. Sinta-se à vontade para entrar em contato se quiser trocar ideias ou colaborar de alguma forma!
+### 💻 Tecnologias que estou aprendendo:
+
+- **Python**: Trabalhando com automação, scripts e desenvolvimento web.
+- **Java**: Aprendendo a criar aplicações robustas e escaláveis.
+- **Angular**: Desenvolvendo interfaces de usuário dinâmicas e responsivas.
+- **TypeScript**: Melhorando a qualidade e a manutenção do código JavaScript.
+- **Spring Boot**: Construindo aplicações back-end eficientes e seguras.
+- **GitHub & GitLab**: Gerenciando versões de código e colaborando em projetos.
+- **SQL Server**: Gerenciando e manipulando dados em ambientes Microsoft.
+- **PostgreSQL**: Trabalhando com bancos de dados relacionais de código aberto.
+- **Podman**: Explorando containers e práticas de DevOps.
+
+### 🚀 Minhas metas:
+
+- **Aprimorar habilidades técnicas** em desenvolvimento Full Stack e aprofundar o conhecimento nas tecnologias que estou estudando.
+- **Contribuir para projetos open source** e colaborar com a comunidade de desenvolvedores.
+- **Desenvolver projetos pessoais** para aplicar e solidificar o conhecimento adquirido.
 
 
 ## Conecte-se Comigo
