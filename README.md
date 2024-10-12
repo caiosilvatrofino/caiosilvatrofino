@@ -2,18 +2,6 @@
 
 Sou um desenvolvedor iniciante apaixonado por tecnologia e em constante aprendizado. Meu objetivo é me desenvolver como **Full Stack Development** e estou sempre em busca de novos desafios e oportunidades para crescer.
 
-### 💻 Tecnologias que estou aprendendo:
-
-- **Python**: Trabalhando com automação, scripts e desenvolvimento web.
-- **Java**: Aprendendo a criar aplicações robustas e escaláveis.
-- **Angular**: Desenvolvendo interfaces de usuário dinâmicas e responsivas.
-- **TypeScript**: Melhorando a qualidade e a manutenção do código JavaScript.
-- **Spring Boot**: Construindo aplicações back-end eficientes e seguras.
-- **GitHub & GitLab**: Gerenciando versões de código e colaborando em projetos.
-- **SQL Server**: Gerenciando e manipulando dados em ambientes Microsoft.
-- **PostgreSQL**: Trabalhando com bancos de dados relacionais de código aberto.
-- **Podman**: Explorando containers e práticas de DevOps.
-
 ### 🚀 Minhas metas:
 
 - **Aprimorar habilidades técnicas** em desenvolvimento Full Stack e aprofundar o conhecimento nas tecnologias que estou estudando.
