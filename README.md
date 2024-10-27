@@ -1,13 +1,16 @@
 # Olá, eu sou Caio Henrique 👋
 
-Sou um desenvolvedor iniciante apaixonado por tecnologia e em constante aprendizado. Meu objetivo é me desenvolver como **Full Stack Development** e estou sempre em busca de novos desafios e oportunidades para crescer.
+Sou um desenvolvedor iniciante apaixonado por tecnologia e em constante aprendizado. Meu foco é backend e estou sempre em busca de novos desafios e oportunidades para crescer.
 
 ### 🚀 Minhas metas:
 
-- **Aprimorar habilidades técnicas** em desenvolvimento Full Stack e aprofundar o conhecimento nas tecnologias que estou estudando.
+- **Aprimorar habilidades técnicas** aprofundar o conhecimento nas tecnologias que estou estudando.
 - **Contribuir para projetos open source** e colaborar com a comunidade de desenvolvedores.
 - **Desenvolver projetos pessoais** para aplicar e solidificar o conhecimento adquirido.
-
+- **SQL**
+- **Python**
+- **Java** 
+- **C#** 
 
 ## Conecte-se Comigo
 
