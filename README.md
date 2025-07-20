@@ -1,30 +1,46 @@
-# Olá, eu sou Caio Henrique 👋
+# Olá! Sou Caio Henrique 👋
 
-Sou um desenvolvedor iniciante apaixonado por tecnologia e em constante aprendizado. Meu foco é **backend** e estou sempre em busca de novos desafios e oportunidades para crescer. Atualmente, estou aprofundando meus conhecimentos em **SQL**, **TypeScript**, **Angular**, **Java**, **C#** e **Docker**.
+Sou um desenvolvedor apaixonado por **tecnologia** e focado em **Backend**. Estou sempre em busca de novos conhecimentos e desafios para evoluir minhas habilidades e construir soluções eficientes.
 
-### 🚀 Minhas metas:
+---
 
-- **Aprimorar habilidades técnicas:** Aprofundar o conhecimento nas tecnologias que estou estudando para construir soluções mais eficientes e escaláveis.
-    - **SQL:** Dominar a criação e otimização de consultas para bancos de dados relacionais.
-    - **TypeScript:** Desenvolver aplicações web robustas e com melhor manutenção, aproveitando os benefícios da tipagem estática.
-    - **Angular:** Construir interfaces de usuário modernas, reativas e com boa experiência para o usuário.
-    - **Java:** Explorar o ecossistema Java para desenvolvimento backend empresarial e criação de APIs.
-    - **C#:** Desenvolver aplicações utilizando C# e o framework .NET, abrangendo desde aplicações desktop até web.
-    - **Docker:** Aprender a containerizar aplicações para facilitar a implantação, escalabilidade e portabilidade.
+### 💻 Tecnologias e Habilidades
 
-### 🛠️ Projetos
+Atualmente, trabalho principalmente com:
 
-* **[Nome do Projeto 1](link_para_o_repo):** Breve descrição do projeto (ex: Uma API RESTful para gerenciar um sistema de biblioteca). Tecnologias utilizadas: **Java**, **Spring Boot**, **SQL**, **Docker**.
-* **[Nome do Projeto 2](link_para_o_repo):** Breve descrição do projeto (ex: Uma aplicação web para rastreamento de tarefas). Tecnologias utilizadas: **TypeScript**, **Angular**, **HTML**, **CSS**.
-* **[Nome do Projeto 3](link_para_o_repo):** Breve descrição do projeto (ex: Um script para automatizar tarefas utilizando C#). Tecnologias utilizadas: **C#**.
+* **Python:** Linguagem versátil para desenvolvimento backend e automação.
+* **C# (.NET):** Desenvolvendo aplicações robustas e escaláveis com o ecossistema .NET.
+* **Java (Spring Boot, JPA, Hibernate):** Explorando o ecossistema Java para backend, com foco em APIs e sistemas empresariais, utilizando **Spring Boot**, **JPA** e **Hibernate**.
+* **Docker:** Conhecimento em containerização para facilitar o desenvolvimento, deploy e escalabilidade de aplicações.
+* **CI/CD Pipelines:** Familiaridade com conceitos e ferramentas para automação de integração e entrega contínua.
+* **SQL:** Consultas e modelagem de bancos de dados relacionais.
 
-### 📚 O que estou aprendendo atualmente:
 
-* **TypeScript:** Aprofundando em Generics e Decorators para criar código mais reutilizável e expressivo.
-* **Java:** Explorando o Spring Security para implementar autenticação e autorização em APIs.
-* **Docker:** Aprendendo sobre Docker Compose para gerenciar múltiplos containers e orquestração básica.
+Também tenho experiência e consigo me virar bem no **Frontend**:
 
-## Conecte-se Comigo
+* **TypeScript:** Utilizando para desenvolvimento de aplicações web robustas e com melhor tipagem.
+* **Angular:** Construindo interfaces de usuário modernas e reativas.
+* **HTML & CSS:** Habilidade para estruturar e estilizar layouts de páginas web.
+
+---
+
+### 🌱 O Que Estou Aprendendo e Aprimorando
+
+Minhas metas atuais de aprendizado e aprofundamento incluem:
+
+* **Java:**
+    * **Spring Security:** Implementando autenticação e autorização robustas em APIs.
+    * **Microsserviços:** Explorando arquiteturas distribuídas com Spring Cloud.
+* **TypeScript:** Aprofundando em conceitos avançados como Generics e Decorators.
+* **Docker:** Expandindo o conhecimento em Docker Compose para orquestração de múltiplos containers.
+* **Kubernetes:** Aprendendo sobre orquestração de containers e gerenciamento de aplicações em escala.
+* **Cloud (AWS/Azure):** Futuramente, pretendo aprender sobre implantação e gerenciamento de aplicações em serviços de nuvem.
+
+---
+
+### 💬 Vamos Conectar!
+
+Estou sempre aberto a novas oportunidades, colaborações em projetos e discussões sobre tecnologia. Sinta-se à vontade para entrar em contato!
 
 * [LinkedIn](https://www.linkedin.com/in/caio-silva361/) - Vamos nos conectar e trocar ideias sobre tecnologia!
 
