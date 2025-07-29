@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por **tecnologia** e focado em **Backend**. Esto
 Atualmente, trabalho principalmente com:
 
 * **Python:** Linguagem versátil para desenvolvimento backend e automação.
-* **C# (.NET):** Desenvolvendo aplicações robustas e escaláveis com o ecossistema .NET.
+* **C# (.NET):** Aplicando melhorias em aplicações legado e manutenção.
 * **Java (Spring Boot, JPA, Hibernate):** Explorando o ecossistema Java para backend, com foco em APIs e sistemas empresariais, utilizando **Spring Boot**, **JPA** e **Hibernate**.
 * **Docker:** Conhecimento em containerização para facilitar o desenvolvimento, deploy e escalabilidade de aplicações.
 * **CI/CD Pipelines:** Familiaridade com conceitos e ferramentas para automação de integração e entrega contínua.
