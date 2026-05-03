@@ -1,8 +1,8 @@
-# Olá! Sou Caio Henrique 👋
+# Olá, sou o Caio Henrique 👋
 
-Desenvolvedor backend. Gosto de resolver problema de verdade e fazer sistema rodar sem dor de cabeça.
+Desenvolvedor backend com experiência em sistemas fiscais e integrações com serviços governamentais, incluindo Receita Federal e emissão de notas fiscais.
 
-Trabalho principalmente com APIs, manutenção de sistemas e melhorias em aplicações que já estão em produção.
+Atuo principalmente na manutenção e evolução de aplicações em produção, lidando com regras de negócio complexas, integrações externas e garantindo a estabilidade dos sistemas.
 
 ---
 
@@ -11,47 +11,48 @@ Trabalho principalmente com APIs, manutenção de sistemas e melhorias em aplica
 - Java (Spring Boot, JPA, Hibernate)
 - C# (.NET)
 - Python
-- SQL / bancos relacionais
+- SQL (bancos de dados relacionais)
 
 ---
 
-### ⚙️ No dia a dia
+### ⚙️ Experiência prática
 
-- Construção e manutenção de APIs REST
-- Correção de bugs e melhoria de performance
-- Docker pra subir e rodar serviços
-- CI/CD (build, deploy, essas coisas)
-- Logs, monitoramento e debugging
-- Lidar com sistema legado sem surtar
-
----
-
-### 🧠 Estudando / evoluindo
-
-- Microsserviços
-- Spring Security
-- Kubernetes
-- Cloud (AWS/Azure)
+- Integração com serviços governamentais e Receita Federal  
+- Emissão de documentos fiscais (NF-e, NFS-e, entre outros)  
+- Desenvolvimento e manutenção de aplicações em produção  
+- Construção e suporte a APIs REST  
+- Containerização com Docker  
+- CI/CD (integração e entrega contínua)  
+- Monitoramento, análise de logs e troubleshooting  
 
 ---
 
-### 💻 Frontend (quando precisa)
+### 🧠 Em evolução
 
-- TypeScript
-- Angular
-- HTML / CSS
+- Arquitetura de microsserviços  
+- Spring Security  
+- Kubernetes  
+- Cloud (AWS / Azure)  
+
+---
+
+### 💻 Frontend
+
+Experiência com:
+
+- TypeScript  
+- Angular  
+- HTML & CSS  
 
 ---
 
 ### 💬 Contato
 
-Se quiser trocar ideia ou falar de projeto:
-
-LinkedIn: https://www.linkedin.com/in/caio-silva361/
+🔗 LinkedIn: https://www.linkedin.com/in/caio-silva361/
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <div style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=caiosilvatrofino&show_icons=true&theme=dracula" height="150" />
